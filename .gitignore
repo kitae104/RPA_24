@@ -186,3 +186,5 @@ cython_debug/
 13_폴더_관리하기/폴더1/부산/부산1.txt
 *.txt
 *.txt
+30_학교정보_크롤링/chromedriver.exe
+*.jpg
