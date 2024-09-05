@@ -189,3 +189,4 @@ cython_debug/
 30_학교정보_크롤링/chromedriver.exe
 *.jpg
 10_텍스트를 음성으로_변환/output.mp3
+/rpaenv
